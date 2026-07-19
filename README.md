@@ -199,7 +199,7 @@ git --version
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Eliaspalmeira06/Nova-alpha
+git clone https://github.com/Eliaspalmeira06/NOVA-main
 cd NOVA
 ```
 
@@ -541,7 +541,7 @@ npm audit fix
 Repositorio oficial:
 
 ```text
-https://github.com/RoswinCastro/NOVA
+https://github.com/Eliaspalmeira06/NOVA-main
 ```
 
 Para descargar futuras actualizaciones:
